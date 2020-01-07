@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "MA477"
     url: /MA477-course/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Projects"
+    url: /data-science-projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
