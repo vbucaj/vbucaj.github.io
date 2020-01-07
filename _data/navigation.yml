@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "MA477"
+  - title: "MA477 - Theory and Applications of Data Science"
     url: /MA477-course/
   # - title: "Sample Posts"
   #   url: /year-archive/
