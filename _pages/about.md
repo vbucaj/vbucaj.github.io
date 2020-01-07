@@ -1,8 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/box_plot.png"
+
 ---
 
 I'm an Assistant Professor of Mathematics at the U.S. Military Academy, West Point.
