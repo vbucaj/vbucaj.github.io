@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-   - title: "MA477"
-     url: /MA477-course/
+  - title: "MA477"
+    url: /MA477-course/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
