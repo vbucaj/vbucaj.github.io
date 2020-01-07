@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Valmir Bucaj"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "West Point, NY"
   email            : "bucajvalmir@gmail.com"
@@ -303,7 +303,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-
-
-      
