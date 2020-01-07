@@ -10,10 +10,10 @@ highlighter: rouge
 #
 title : Valmir Bucaj
 author :
-  name : Karl Broman
+  name : Valmir Bucaj
   email : bucajvalmir@gmail.com
-  github : vbucaj
-  linkedin : valmir-bucaj-phd-7731a093
+  github : "vbucaj"
+  linkedin : "valmir-bucaj-phd-7731a093"
   feedburner : nil
 
 production_url : https://vbucaj.github.io
