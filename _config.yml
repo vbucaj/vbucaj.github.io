@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Valmir Bucaj"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Valmir Bucaj, PhD"
+name                     : "Valmir Bucaj"
 description              : "Data Science Portfolio!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Valmir Bucaj"
+  name             : "Valmir Bucaj, PhD"
   avatar           : "/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "West Point, NY"
