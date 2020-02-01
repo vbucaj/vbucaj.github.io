@@ -10,6 +10,6 @@ author_profile: true
       <title>Feature Selection App</title>
    </head>
    <body>
-      <button onclick="window.location.href = 'https://feature-selection.herokuapp.com/';">Feature Selection App</button>
+      <button onclick="window.location.href = 'https://feature-selection.herokuapp.com/';" target="_blank">Feature Selection App</button>
    </body>
 </html>
