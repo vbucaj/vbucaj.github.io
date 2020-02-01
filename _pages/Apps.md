@@ -19,20 +19,20 @@ author_profile: true
       <title>Feature Selection App</title>
       <style>
          .button {
-         background-color: #1c87c9;
-         border: none;
+         background-color:#e7e7e7;
+         border: 2px solid #008CBA;
          color: white;
-         padding: 20px 34px;
+         padding: 20px 44px;
          text-align: center;
          text-decoration: none;
          display: inline-block;
-         font-size: 20px;
+         font-size: 24px;
          margin: 4px 2px;
          cursor: pointer;
          }
       </style>
    </head>
    <body>
-      <a href="https://feature-selection.herokuapp.com/" class="button">Feature Selection</a>
+      <a href="https://feature-selection.herokuapp.com/" class="button" target='_blank' >Feature Selection</a>
    </body>
 </html>
