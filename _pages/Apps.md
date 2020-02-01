@@ -5,14 +5,6 @@ title: "<font size='5'>Machine Learning Apps</font>"
 author_profile: true
 ---
 
-<html>
-   <head>
-      <title>Feature Selection App</title>
-   </head>
-   <body>
-      <button onclick="window.location.href = 'https://feature-selection.herokuapp.com/';">Feature Selection App</button>
-   </body>
-</html>
 
 <html>
    <head>
@@ -20,7 +12,7 @@ author_profile: true
       <style>
          .button {
          background-color:#e7e7e7;
-         border: 2px solid #008CBA;
+         border: 2px solid #f44336;
          color: white;
          padding: 20px 44px;
          text-align: center;
@@ -33,6 +25,6 @@ author_profile: true
       </style>
    </head>
    <body>
-      <a href="https://feature-selection.herokuapp.com/" class="button" target='_blank' >Feature Selection</a>
+      <a href="https://feature-selection.herokuapp.com/" class="button" target='_blank' >Feature Selection App</a>
    </body>
 </html>
