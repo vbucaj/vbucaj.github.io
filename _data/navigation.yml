@@ -6,7 +6,7 @@ main:
     url: /MA477-course/
   - title: "Projects"
     url: /data-science-projects/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "ML Apps"
+    url: /ml-apps/
   # - title: "Sitemap"
   #   url: /sitemap/
