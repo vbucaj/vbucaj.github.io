@@ -47,6 +47,6 @@ author_profile: true
       </style>
    </head>
    <body>
-      <a href="https://submission-app.herokuapp.com/" class="button" target='_blank' >Feature Selection App</a>
+      <a href="https://submission-app.herokuapp.com/" class="button" target='_blank' >MA477 Submission App</a>
    </body>
 </html>
