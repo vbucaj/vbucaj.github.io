@@ -8,5 +8,5 @@ main:
     url: /data-science-projects/
   - title: "ML Apps"
     url: /ml-apps/
-   - title: "COVID-19 Gallery"
-     url: /COVID_19_Gallery/
+  - title: "COVID-19 Gallery"
+    url: /COVID_19_Gallery/
