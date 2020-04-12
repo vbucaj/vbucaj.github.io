@@ -8,7 +8,7 @@ author_profile: true
 <html>
 <body>
 <h2>Time-lapse of Hospitalizations (NY excluded)</h2>
-<img src="covid_usa_movie_hos_ny.gif">
+<img src="images/covid_usa_movie_hos_ny.gif" alt ='animated'/>
 
 </body>
 
