@@ -6,9 +6,8 @@ author_profile: true
 ---
 <html>
 <body>
-<h4></h4>Note:</h4><font size="4">All the animations are created using Plotly. I will create a GitHub repository soon!</font>
+<h4>Note:</h4><font size="4">All the animations are created using Plotly. I will create a GitHub repository soon!</font>
 
-<br>
 
 <h4>Data Source:</h4><a href="https://www.kaggle.com/sudalairajkumar/covid19-in-usa#us_states_covid19_daily.csv" target="_blank"><font size='4'> KAGGLE</font></a>
 </body>
