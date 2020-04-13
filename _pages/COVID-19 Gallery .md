@@ -4,7 +4,9 @@ permalink: /COVID_19_Gallery/
 title: "<font size='6'>COVID-19 Gallery</font>"
 author_profile: true
 ---
+<font size=4 color='red'>Note:</font> All the animations are created using Plotly. I will create a GitHub repository soon!
 
+<br>
 
 <h4>Time-lapse of Hospitalizations (NY excluded)</h4>
 <img src="/images/covid_usa_movie_hos_ny.gif" alt='animated hospitalizations' width='1300' height='900'/>
