@@ -6,10 +6,10 @@ author_profile: true
 ---
 <html>
 <body>
-<font size="4"><b>Note:</b></font><font size="4">All the animations are created using Plotly. I will create a GitHub repository soon!</font>
+<font size="4"><b>Note: </b></font><font size="3"> All the animations are created using Plotly. I will create a GitHub repository soon!</font>
 <br>
 
-<font size='4'><b>Data Source: </b></font><a href="https://www.kaggle.com/sudalairajkumar/covid19-in-usa#us_states_covid19_daily.csv" target="_blank"><font size='4'> KAGGLE</font></a>
+<font size='4'><b>Data Source: </b></font><a href="https://www.kaggle.com/sudalairajkumar/covid19-in-usa#us_states_covid19_daily.csv" target="_blank"><font size='3'> KAGGLE</font></a>
 </body>
 </html>
 <br>
