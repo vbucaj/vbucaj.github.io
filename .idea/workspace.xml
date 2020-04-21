@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3ba283c-616a-4db5-b5d3-2be1f1aca60e" name="Default Changelist" comment="" />
+    <list default="true" id="f3ba283c-616a-4db5-b5d3-2be1f1aca60e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/MA477.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/MA477.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +37,12 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586527490816">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587271111273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2606" y="211" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583261417278" />
     <state x="2229" y="304" key="FileChooserDialogImpl/0.0.1536.824/1920.0.864.1496@1920.0.864.1496" timestamp="1583426253069" />
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586527490816" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587271111273" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586364572452">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
